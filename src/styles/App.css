@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap");
+@import "tailwindcss";
+
+@theme{
+    --font-game: 'Orbitron', 'sans-serif';
+}
+.custom-fuchsia-shadow:hover {
+  filter: drop-shadow(0 0 10px #d946ef);
+}
