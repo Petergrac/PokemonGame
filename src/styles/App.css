@@ -7,3 +7,6 @@
 .custom-fuchsia-shadow:hover {
   filter: drop-shadow(0 0 10px #d946ef);
 }
+.custom-green{
+  filter: drop-shadow(5px 5px 2px #ec13dd)
+}
